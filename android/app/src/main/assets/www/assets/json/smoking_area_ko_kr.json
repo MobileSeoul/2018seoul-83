@@ -1,0 +1,444 @@
+{
+    "DESCRIPTION": {
+        "AUTHORITY": "설치주체",
+        "AREA": "규모",
+        "MAKE_DATE": "설치일",
+        "OPERATOR": "운영관리",
+        "ADD_KOR": "주소",
+        "NAME_KOR": "명칭",
+        "MAIN_KEY": "번호",
+        "CATE1_NAME": "대분류"
+    },
+    "DATA": [
+        {
+            "authority": "교보빌딩",
+            "main_key": "1",
+            "area": "37㎡",
+            "name_kor": "종로구",
+            "add_kor": "교보빌딩 주차장",
+            "cate1_name": "개방형",
+            "operator": "교보빌딩",
+            "make_date": "2016년 9월"
+        },
+        {
+            "authority": "케이티",
+            "main_key": "2",
+            "area": "30㎡",
+            "name_kor": "종로구",
+            "add_kor": "KT본사 주차장",
+            "cate1_name": "개방형",
+            "operator": "KT 본사",
+            "make_date": "2016년 10월"
+        },
+        {
+            "authority": "서울시",
+            "main_key": "3",
+            "area": "48㎡",
+            "name_kor": "중 구",
+            "add_kor": "서울시청 옆",
+            "cate1_name": "개방형",
+            "operator": "시청",
+            "make_date": null
+        },
+        {
+            "authority": "중구/한국일보",
+            "main_key": "4",
+            "area": "21㎡",
+            "name_kor": "중 구",
+            "add_kor": "을지로입구역 7, 8번 출입구간",
+            "cate1_name": "폐쇄형",
+            "operator": "한국일보",
+            "make_date": "2015년 6월"
+        },
+        {
+            "authority": "중구/한국일보",
+            "main_key": "5",
+            "area": "21㎡",
+            "name_kor": "중 구",
+            "add_kor": "하나카드본사 측면부",
+            "cate1_name": "폐쇄형",
+            "operator": "한국일보",
+            "make_date": "2016년 9월"
+        },
+        {
+            "authority": "중구/한국일보",
+            "main_key": "6",
+            "area": "21㎡",
+            "name_kor": "중 구",
+            "add_kor": "하나은행본점 측면부",
+            "cate1_name": "폐쇄형",
+            "operator": "한국일보",
+            "make_date": "2016년 9월"
+        },
+        {
+            "authority": "중구/한국일보",
+            "main_key": "7",
+            "area": "36㎡",
+            "name_kor": "중 구",
+            "add_kor": "장교빌딩 전면부",
+            "cate1_name": "개방형",
+            "operator": "한국일보",
+            "make_date": "2016년 9월"
+        },
+        {
+            "authority": "중구/한국일보",
+            "main_key": "8",
+            "area": "36㎡",
+            "name_kor": "중 구",
+            "add_kor": "두산타워 전면부",
+            "cate1_name": "개방형",
+            "operator": "한국일보",
+            "make_date": "2016년 9월"
+        },
+        {
+            "authority": "중구/한국일보",
+            "main_key": "9",
+            "area": "21㎡",
+            "name_kor": "중 구",
+            "add_kor": "서울역 8번출구",
+            "cate1_name": "폐쇄형",
+            "operator": "한국일보",
+            "make_date": "2016년 11월"
+        },
+        {
+            "authority": "한국철도공사",
+            "main_key": "10",
+            "area": "39㎡",
+            "name_kor": "용산구",
+            "add_kor": "서울역 광장 1번출구",
+            "cate1_name": "완전폐쇄형",
+            "operator": "자치구",
+            "make_date": "2013년 11월"
+        },
+        {
+            "authority": "한국철도공사",
+            "main_key": "11",
+            "area": "39㎡",
+            "name_kor": "용산구",
+            "add_kor": "서울역 광장 3번출구",
+            "cate1_name": "완전폐쇄형",
+            "operator": "자치구",
+            "make_date": "2013년 11월"
+        },
+        {
+            "authority": "성동구청",
+            "main_key": "12",
+            "area": "15.6㎡",
+            "name_kor": "성동구",
+            "add_kor": "고산자로 270 (구청)",
+            "cate1_name": "개방형",
+            "operator": "자치구",
+            "make_date": null
+        },
+        {
+            "authority": "성동구청",
+            "main_key": "13",
+            "area": "6.0㎡",
+            "name_kor": "성동구",
+            "add_kor": "왕십리광장(북측)",
+            "cate1_name": "개방형",
+            "operator": "자치구",
+            "make_date": "2016년 11월"
+        },
+        {
+            "authority": "성동구청",
+            "main_key": "14",
+            "area": "18㎡",
+            "name_kor": "성동구",
+            "add_kor": "왕십리민자역사 후면",
+            "cate1_name": "개방형",
+            "operator": "자치구",
+            "make_date": "2017년 3월"
+        },
+        {
+            "authority": "KArch(광진구청)",
+            "main_key": "15",
+            "area": "10㎡",
+            "name_kor": "광진구",
+            "add_kor": "동서울터미널",
+            "cate1_name": "완전폐쇄형",
+            "operator": "민간자본(자치구)",
+            "make_date": "2014년 12월"
+        },
+        {
+            "authority": "KArch(광진구청)",
+            "main_key": "16",
+            "area": "10㎡",
+            "name_kor": "광진구",
+            "add_kor": "건대입구역",
+            "cate1_name": "완전폐쇄형",
+            "operator": "민간자본(자치구)",
+            "make_date": "2014년 12월"
+        },
+        {
+            "authority": "민간",
+            "main_key": "17",
+            "area": "20㎡",
+            "name_kor": "서대문구",
+            "add_kor": "서대문구 통일로 87",
+            "cate1_name": "개방형",
+            "operator": "임광빌딩",
+            "make_date": null
+        },
+        {
+            "authority": "민간",
+            "main_key": "18",
+            "area": "25㎡",
+            "name_kor": "서대문구",
+            "add_kor": "서대문구 신촌로 197",
+            "cate1_name": "개방형",
+            "operator": "한국방송예술진흥원",
+            "make_date": null
+        },
+        {
+            "authority": "민간",
+            "main_key": "19",
+            "area": "10㎡",
+            "name_kor": "서대문구",
+            "add_kor": "서대문구 성산로 321",
+            "cate1_name": "개방형",
+            "operator": "지오영빌딩",
+            "make_date": null
+        },
+        {
+            "authority": "민간",
+            "main_key": "20",
+            "area": "18㎡",
+            "name_kor": "서대문구",
+            "add_kor": "서대문구 충정로 23 ",
+            "cate1_name": "개방형",
+            "operator": "풍산빌딩",
+            "make_date": null
+        },
+        {
+            "authority": "민간",
+            "main_key": "21",
+            "area": "25㎡",
+            "name_kor": "서대문구",
+            "add_kor": "서대문구 충정로 60",
+            "cate1_name": "개방형",
+            "operator": "KT&G, 서대문타워",
+            "make_date": null
+        },
+        {
+            "authority": "민간",
+            "main_key": "22",
+            "area": "30㎡",
+            "name_kor": "서대문구",
+            "add_kor": "서대문구 충정로 70",
+            "cate1_name": "개방형",
+            "operator": "웨스트게이트 빌딩",
+            "make_date": null
+        },
+        {
+            "authority": "마포구청",
+            "main_key": "23",
+            "area": "20㎡",
+            "name_kor": "마포구",
+            "add_kor": "마포구청",
+            "cate1_name": "완전폐쇄형",
+            "operator": "자치구",
+            "make_date": "2012년 12월"
+        },
+        {
+            "authority": "공원녹지과",
+            "main_key": "24",
+            "area": "14㎡",
+            "name_kor": "구로구",
+            "add_kor": "동양미래대학교 입구",
+            "cate1_name": "개방형",
+            "operator": "공원녹지과",
+            "make_date": "2016년 5월"
+        },
+        {
+            "authority": "교보타워",
+            "main_key": "25",
+            "area": "75㎡",
+            "name_kor": "서초구",
+            "add_kor": "교보타워 주차장 입구",
+            "cate1_name": "개방형",
+            "operator": "교보타워",
+            "make_date": "2012년 4월"
+        },
+        {
+            "authority": "환승주차장",
+            "main_key": "26",
+            "area": null,
+            "name_kor": "서초구",
+            "add_kor": "양재역 환승주차장 필로티",
+            "cate1_name": "개방형",
+            "operator": "환승주차장",
+            "make_date": null
+        },
+        {
+            "authority": "센트럴시티",
+            "main_key": "27",
+            "area": "44㎡",
+            "name_kor": "서초구",
+            "add_kor": "센트럴시티 광장(호남선)",
+            "cate1_name": "완전폐쇄형",
+            "operator": "센트럴시티",
+            "make_date": "2013년 4월"
+        },
+        {
+            "authority": "센트럴시티, 고속버스터미널",
+            "main_key": "28",
+            "area": null,
+            "name_kor": "서초구",
+            "add_kor": "고속터미널 광장(경부선 광장 중앙)",
+            "cate1_name": "개방형",
+            "operator": "센트럴시티, 고속버스터미널",
+            "make_date": "2013년 4월"
+        },
+        {
+            "authority": "센트럴시티, 고속버스터미널",
+            "main_key": "29",
+            "area": null,
+            "name_kor": "서초구",
+            "add_kor": "고속터미널 광장(경부선 건물필로티)",
+            "cate1_name": "개방형",
+            "operator": "센트럴시티, 고속버스터미널",
+            "make_date": "2013년 4월"
+        },
+        {
+            "authority": "경안레져산업(주) 서울남부터미널",
+            "main_key": "30",
+            "area": "6㎡",
+            "name_kor": "서초구",
+            "add_kor": "서울남부터미널",
+            "cate1_name": "완전폐쇄형",
+            "operator": "경안레져산업(주) 서울남부터미널",
+            "make_date": "2014년 2월"
+        },
+        {
+            "authority": "서초구보건소",
+            "main_key": "31",
+            "area": "6.5㎡",
+            "name_kor": "서초구",
+            "add_kor": "사당역(2~3번 출구)",
+            "cate1_name": "개방형",
+            "operator": "서초구보건소(청소행정과)",
+            "make_date": "2016년 4월"
+        },
+        {
+            "authority": "코엑스",
+            "main_key": "32",
+            "area": "40㎡",
+            "name_kor": "강남구",
+            "add_kor": "코엑스 아티움 뒷편",
+            "cate1_name": "개방형",
+            "operator": "코엑스",
+            "make_date": "2016년 7월"
+        },
+        {
+            "authority": "코엑스",
+            "main_key": "33",
+            "area": "1,600㎡",
+            "name_kor": "강남구",
+            "add_kor": "코엑스 아셈가든내(1)",
+            "cate1_name": "개방형",
+            "operator": "코엑스",
+            "make_date": "2013년 1월"
+        },
+        {
+            "authority": "코엑스",
+            "main_key": "34",
+            "area": "1,600㎡",
+            "name_kor": "강남구",
+            "add_kor": "코엑스 아셈가든내(2)",
+            "cate1_name": "개방형",
+            "operator": "코엑스",
+            "make_date": "2013년 1월"
+        },
+        {
+            "authority": "가든파이브",
+            "main_key": "35",
+            "area": "25㎡",
+            "name_kor": "송파구",
+            "add_kor": "가든파이브 영관 앞",
+            "cate1_name": "완전폐쇄형",
+            "operator": "가든파이브 관리단",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "가든파이브",
+            "main_key": "36",
+            "area": "25㎡",
+            "name_kor": "송파구",
+            "add_kor": "가든파이브 영관9층 휴게데크 내",
+            "cate1_name": "완전폐쇄형",
+            "operator": "가든파이브 관리단",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "케이티앤지",
+            "main_key": "37",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실야구장 외야석 광장",
+            "cate1_name": "개방형",
+            "operator": "잠실야구장",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "케이티앤지",
+            "main_key": "38",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실야구장 1루 출입구(1) ",
+            "cate1_name": "개방형",
+            "operator": "잠실야구장",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "케이티앤지",
+            "main_key": "39",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실야구장 1루 출입구(2)",
+            "cate1_name": "개방형",
+            "operator": "잠실야구장",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "케이티앤지",
+            "main_key": "40",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실야구장 3루 출입구(1)",
+            "cate1_name": "개방형",
+            "operator": "잠실야구장",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "케이티앤지",
+            "main_key": "41",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실야구장 3루 출입구(2)",
+            "cate1_name": "개방형",
+            "operator": "잠실야구장",
+            "make_date": "2016년 3월"
+        },
+        {
+            "authority": "롯데월드몰",
+            "main_key": "42",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실 롯데월드몰 뒷편(1)",
+            "cate1_name": "완전폐쇄형",
+            "operator": "롯데월드몰",
+            "make_date": "2015년 10월"
+        },
+        {
+            "authority": "롯데월드몰",
+            "main_key": "43",
+            "area": "6.4㎡",
+            "name_kor": "송파구",
+            "add_kor": "잠실 롯데월드몰 뒷편(2)",
+            "cate1_name": "완전폐쇄형",
+            "operator": "롯데월드몰",
+            "make_date": "2015년 10월"
+        }
+    ]
+}
